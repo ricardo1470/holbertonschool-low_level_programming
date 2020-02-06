@@ -1,0 +1,1 @@
+random number to the variable,learning c 
