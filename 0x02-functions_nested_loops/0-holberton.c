@@ -11,7 +11,7 @@ int main(void)
 	char h[9] = {72, 111, 108, 98, 101, 114, 116, 111, 110};
 	int i;
 
-	for (i = 0 ; i <= 9 ; i++)
+	for (i = 0 ; i <= 8 ; i++)
 	{
 		_putchar(h[i]);
 	}
