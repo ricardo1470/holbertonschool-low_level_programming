@@ -3,7 +3,7 @@
 
 /**
  * print_to_98 - check the code for Holberton School students.
- *@n: int type
+ * @n: int type
  * Return: Always 0.
  */
 void print_to_98(int n)
