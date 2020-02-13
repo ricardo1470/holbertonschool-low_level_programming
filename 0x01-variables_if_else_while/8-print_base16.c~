@@ -7,18 +7,21 @@
  */
 int main(void)
 {
-	int b = 00;
+	int b;
+	char c;
 
-	while (b <= 999)
+	b = '0';
+	c = 'a';
+
+	while (b = '9')
 	{
-		putchar(b / 100 + '0');
-		putchar(b % 100 + '0');
+		putchar(b);
 		b++;
-		if (b != 100)
-		{
-			putchar(',');
-			putchar(' ');
-		}
+	}
+	while (c = 'f')
+	{
+		putchar(c);
+		c++;
 	}
 	putchar('\n');
 	return (0);

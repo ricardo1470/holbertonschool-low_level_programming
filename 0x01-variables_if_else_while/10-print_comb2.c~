@@ -9,10 +9,10 @@ int main(void)
 {
 	int b = 00;
 
-	while (b <= 999)
+	while (b <= 00)
 	{
-		putchar(b / 100 + '0');
-		putchar(b % 100 + '0');
+		putchar(b / 10 + '0');
+		putchar(b % 10 + '0');
 		b++;
 		if (b != 100)
 		{
