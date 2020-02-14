@@ -3,10 +3,10 @@
 /**
  * print_line - Entry point
  * Desc: Entry
- @n: inv var
+ *@n: inv var
  * Return: Always 0 (Success)
  */
- void print_line(int n)
+void print_line(int n)
 {
 	int c;
 
