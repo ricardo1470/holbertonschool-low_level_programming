@@ -1,13 +1,26 @@
-learnin c:
-0-positive_or_negative.c
-1-last_digit.c
-2-print_alphabet.c
-3-print alphabets.c
-4 print alphabet.c
-5-print_numbers.c
-6-print_numberz.c
-7-print_tabahpla.c
-8-print_base16.c
-9-print_comb.c
-10-print_comb2.c
-100-print_comb3.c
+# learnin c:
+
+### 0. Positive anything is better than negative nothing
+program will assign a random number to the variable n each time it is executed. Complete the source code in order to print whether the number stored in the variable n is positive or negative.
+### 1. The last digit
+program will assign a random number to the variable n each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable n.
+### 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
+program that prints the alphabet in lowercase.
+### 3. alphABET
+program that prints the alphabet in lowercase, and then in uppercase.
+### 4. When I was having that alphabet soup, I never thought that it would pay off
+program that prints the alphabet in lowercase, and then in uppercase.
+### 5. Numbers
+program that prints all single digit numbers of base 10 starting from 0.
+### 6. Numberz
+program that prints all single digit numbers of base 10 starting from 0.
+### 7. Smile in the mirror
+program that prints the lowercase alphabet in reverse.
+### 8. Hexadecimal
+program that prints all the numbers of base 16 in lowercase
+### 9. Patience, persistence and perspiration make an unbeatable combination for success
+ program that prints all possible combinations of single-digit numbers.
+### 10. 00...99
+program that prints the numbers from 00 to 99.
+### 11. Inventing is a combination of brains and materials. The more brains you use, the less material you need
+ program that prints all possible different combinations of two digits.
