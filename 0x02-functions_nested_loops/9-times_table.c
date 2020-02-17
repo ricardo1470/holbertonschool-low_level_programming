@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * times_table  - Functio that checks
+ * times_table  - Function that checks
  *
  * Return: Always 0 (Success)
  */
