@@ -11,9 +11,12 @@ void print_array(int *a, int n)
 {
 	int i;
 
-	for (i = 0 ; a[i] != '\0' ; i++)
+	for (i = 0 ; *(a + i) != '\0' ; i++)
 	{
-		printf("%d", a[i]);
+		if (i != n)
+		{
+		printf("%d", *(a + i));
+		}
 		if (i < (n - 1))
 		{
 			printf(", ");
