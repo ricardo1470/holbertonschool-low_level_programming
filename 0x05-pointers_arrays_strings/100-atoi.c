@@ -10,7 +10,7 @@ int _atoi(char *s)
 {
 	int nev = 1;
 	int i;
-	int num = 0;
+	unsigned int num = 0;
 
 	for (i = 0; s[i] != '\0'; i++)
 	{
@@ -21,7 +21,7 @@ int _atoi(char *s)
 		else if (s[i] >= '0' && s[i] <= '9')
 		{
 			num = (num * 10) + (s[i] - '0');
-				}
+		}
 		else if (num > 0)
 		{
 			break;
