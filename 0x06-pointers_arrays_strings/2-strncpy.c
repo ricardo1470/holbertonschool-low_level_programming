@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * _strcat - Entry point
+ * _strncpy - Entry point
  * Desc: Entry
  *@dest: pointer
  *@src: pointer
