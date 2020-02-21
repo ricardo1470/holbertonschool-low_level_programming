@@ -22,12 +22,12 @@ char *cap_string(char *a)
 				{
 					a[i + 1] = a[i + 1] - 32;
 				}
-				else if (i == 0)
+			}
+			else if (i == 0)
+			{
+				if (a[i] > 96 && a[i + 1] < 123)
 				{
-					if (a[i] > 96 && a[i + 1] < 123)
-					{
-						a[i] = a[i] - 32;
-					}
+					a[i] = a[i] - 32;
 				}
 			}
 		}
