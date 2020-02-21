@@ -18,13 +18,13 @@ char *cap_string(char *a)
 		{
 			if (a[i] == k[j])
 			{
-				if (a[i + 1] >= 97 && a[i + 1] <= 122)
+				if (a[i + 1] > 96 && a[i + 1] < 123)
 				{
 					a[i + 1] = a[i + 1] - 32;
 				}
 				else if (i == 0)
 				{
-					if (a[i] > 97 && a[i + 1] <= 122)
+					if (a[i] > 96 && a[i + 1] < 123)
 					{
 						a[i] = a[i] - 32;
 					}
