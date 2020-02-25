@@ -18,4 +18,7 @@ function that capitalizes all words of a string.
 function that encodes a string into 1337.
 ### 8. rot13
 function that encodes a string using rot13.
-### 
+### 10. A dream doesn't become reality through magic; it takes sweat, determination and hard work
+Add one line to this code, so that the program prints a[2] = 98, followed by a new line.
+### 11. It is the addition of strangeness to beauty that constitutes the romantic character in art 
+function that adds two numbers.
