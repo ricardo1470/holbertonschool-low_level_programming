@@ -10,5 +10,6 @@ unsigned int _strspn(char *s, char *accept);/*prototype function that gets the l
 char *_strpbrk(char *s, char *accept);/*function that searches a string for any of a set of bytes.*/
 char *_strstr(char *haystack, char *needle);/*function that locates a substring.*/
 void print_chessboard(char (*a)[8]);/*function that prints the chessboard.*/
+void print_diagsums(int *a, int size);/*function that prints the sum of the two diagonals of a square matrix of integers.*/
 
 #endif /* HOLBERTON_H */
