@@ -20,9 +20,12 @@ char *_strstr(char *haystack, char *needle)
 			{
 				return (needle);
 			}
+			else
+			{
+			return (needle);
+			}
 			break;
 		}
 	}
-	needle = 0;
-	return (0);
+	return(0);
 }
