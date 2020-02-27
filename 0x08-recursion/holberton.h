@@ -12,4 +12,8 @@ int _sqrt_recursion(int n);/*function that returns the natural square root of a 
 int _my_sqrt(int j, int i);
 int is_prime_number(int n);/*function that returns 1 if the input integer is a prime number, otherwise return 0.*/
 int _my_number(int k, int l);
+int is_palindrome(char *s);/*function that returns 1 if a string is a palindrome and 0 if not.*/
+int rev(char *s);
+int rev1(char *s, int l);
+
 #endif /* HOLBERTON_H */
