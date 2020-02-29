@@ -8,3 +8,5 @@
 ### 0x05. pointers_arrays_strings.
 ### 0x06. C - More pointers, arrays and strings.
 ### 0x07. C - Even more pointers, arrays and strings 
+### 0x08. recursion
+### 0x09. static_libraries
