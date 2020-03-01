@@ -2,6 +2,13 @@
 #define HOLBERTON_H
 #include <stdio.h>
 
+/**
+ * _putchar - Entry point
+ * Desc: Entry
+ *@c: value
+ *Return: On success 1.
+ */
+
 int _putchar(char c);/*prototype _putchar*/
 int _islower(int c);
 int _isalpha(int c);
