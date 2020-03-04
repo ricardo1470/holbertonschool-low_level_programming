@@ -1,7 +1,7 @@
 #include "holberton.h"
 #include <stdlib.h>
 /**
- * main -  print name
+ * create_array -  Entry point
  *@size: unsigned int.
  *@c: char.
  * Return: Always 0.
