@@ -9,7 +9,7 @@
 int main(void)
 {
 	#ifdef NAME
-		printf("2-main.c\n");
+		printf("%s\n", __FILE__);
 	#endif
 	return (0);
 }
