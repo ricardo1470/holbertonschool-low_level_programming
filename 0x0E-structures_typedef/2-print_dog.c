@@ -5,7 +5,6 @@
  * print_dog -  initializes a variable
  * @d: struct dog.
  *
- * Description: Longer description
  */
 void print_dog(struct dog *d)
 {
@@ -19,6 +18,6 @@ void print_dog(struct dog *d)
 		{
 			d->owner = "(nil)";
 		}
-	printf("Name: %s\nAge: %6f\nOwnwer: %s\n", d->name, d->age, d->owner);
+		printf("Name: %s\nAge: %f\nOwnwer: %s\n", d->name, d->age, d->owner);
 	}
 }
