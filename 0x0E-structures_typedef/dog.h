@@ -22,6 +22,7 @@ struct dog
   * Return: c
   */
 int _putchar(char c); /*prototype _putchar*/
+
 void init_dog(struct dog *d, char *name, float age, char *owner);
 /*function that initialize a variable of type struct dog*/
 /**
@@ -30,5 +31,21 @@ void init_dog(struct dog *d, char *name, float age, char *owner);
   * Return: c
   */
 void print_dog(struct dog *d);/*function that prints a struct dog*/
+
+/**
+  * new_dog - print a character
+  * @name: firts member
+  * @age: second member
+  * @owner: third member
+  * Description: Longer description
+  */
+dog_t *new_dog(char *name, float age, char *owner);
+
+/**
+  * free_dog - print a character
+  * @d: firts member
+  * Description: Longer description
+  */
+void free_dog(dog_t *d);
 
 #endif /* HOLBERTON_H */
