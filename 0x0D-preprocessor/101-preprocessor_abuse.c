@@ -1,1 +1,1 @@
-#define NUE ("Hello, Holberton")
+#error "Hello, Holberton"
