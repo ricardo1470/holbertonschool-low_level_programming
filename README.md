@@ -1,5 +1,5 @@
 # learning c
-
+---
 ### 0x00. hello_world.
 ### 0x01. variables_if_else_while.
 ### 0x02. funtions_nested_loops.
@@ -15,3 +15,9 @@
 ### 0x0C. C - More malloc, free
 ### 0x0D. C - Preprocessor
 ### 0x0E. C - Structures, typedef
+---
+## contact
+
+### [twitter](https://twitter.com/RICARDO1470)
+### [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/)
+### [mail](1466@holbertonschool.com)

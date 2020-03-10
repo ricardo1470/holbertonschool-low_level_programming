@@ -1,5 +1,5 @@
 # 0x0B. C - malloc, free
-
+---
 ### 0. Float like a butterfly, sting like a bee
 function that creates an array of chars, and initializes it with a specific char.
 ### 1. The woman who has no imagination has no wings
@@ -12,3 +12,9 @@ function that returns a pointer to a 2 dimensional array of integers.
 function that frees a 2 dimensional grid previously created by your alloc_grid function.
 ### 5. It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe
 function that concatenates all the arguments of your program.
+---
+## contact
+
+### [twitter](https://twitter.com/RICARDO1470)
+### [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/)
+### [mail](1466@holbertonschool.com)

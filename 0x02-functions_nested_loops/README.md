@@ -1,5 +1,5 @@
 # learning c, 0x02. C - Functions, nested loops
-
+---
 ### 0. _putchar
 program that prints Holberton.
 ### 1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
@@ -26,3 +26,9 @@ function that adds two integers and returns the result.
 function that prints all natural numbers from n to 98.
 ### 12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself
 function that prints the n times table, starting with 0.
+---
+## contact
+
+### [twitter](https://twitter.com/RICARDO1470)
+### [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/)
+### [mail](1466@holbertonschool.com)

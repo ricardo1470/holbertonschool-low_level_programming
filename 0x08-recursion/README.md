@@ -1,5 +1,5 @@
 # 0x08. C - Recursion
-
+---
 ### 0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget
 function that prints a string, followed by a new line.
 ### 1. Why is it so important to dream? Because, in my dreams we are together
@@ -16,3 +16,9 @@ function that returns the natural square root of a number.
 function that returns 1 if the input integer is a prime number, otherwise return 0.
 ### 7. They say we only use a fraction of our brain's true potential. Now that's when we're awake. When we're asleep, we can do almost anything
 function that returns 1 if a string is a palindrome and 0 if not
+---
+## contact
+
+### [twitter](https://twitter.com/RICARDO1470)
+### [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/)
+### [mail](1466@holbertonschool.com)

@@ -1,5 +1,5 @@
 # learnin c:
-
+---
 ### 0. Positive anything is better than negative nothing
 program will assign a random number to the variable n each time it is executed. Complete the source code in order to print whether the number stored in the variable n is positive or negative.
 ### 1. The last digit
@@ -26,3 +26,9 @@ program that prints the numbers from 00 to 99.
  program that prints all possible different combinations of two digits.
 ### 12. The success combination in business is: Do what you do better... and: do more of what you do...
 program that prints all possible different combinations of three digits.
+---
+## contact
+
+### [twitter](https://twitter.com/RICARDO1470)
+### [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/)
+### [mail](1466@holbertonschool.com)

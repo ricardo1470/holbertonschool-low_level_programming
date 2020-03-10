@@ -1,5 +1,5 @@
 # starting learning language c
-
+---
 ### 0. Preprocessor
 script that runs a C file through the preprocessor and save the result into another file.
 ### 1. Compiler.
@@ -21,4 +21,10 @@ https://www.linkedin.com/pulse/what-happens-when-you-type-gcc-mainc-ricardo-cama
 a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
 ### 9. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity
 a C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19.
-ls 
+ls
+---
+## contact
+
+### [twitter](https://twitter.com/RICARDO1470)
+### [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/)
+### [mail](1466@holbertonschool.com)

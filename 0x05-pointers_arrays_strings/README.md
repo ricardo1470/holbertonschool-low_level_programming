@@ -1,5 +1,5 @@
 # 0x05. C - Pointers, arrays and strings
-
+---
 ### 0. 98 Battery st.
 function that takes a pointer to an int as parameter and updates the value it points to to 98.
 ### 1. Don't swap horses in crossing a stream.
@@ -20,3 +20,9 @@ function that prints half of a string, followed by a new line
 function that prints n elements of an array of integers, followed by a new line.
 ### 9. strcpy
 function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest
+---
+## contact
+
+### [twitter](https://twitter.com/RICARDO1470)
+### [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/)
+### [mail](1466@holbertonschool.com)

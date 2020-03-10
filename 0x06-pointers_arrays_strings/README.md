@@ -1,5 +1,5 @@
 # 0x06. C - More pointers, arrays and strings
-
+---
 ### 0. strcat
 function that concatenates two strings.
 ### 1. strncat
@@ -22,3 +22,9 @@ function that encodes a string using rot13.
 Add one line to this code, so that the program prints a[2] = 98, followed by a new line.
 ### 11. It is the addition of strangeness to beauty that constitutes the romantic character in art 
 function that adds two numbers.
+---
+## contact
+
+### [twitter](https://twitter.com/RICARDO1470)
+### [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/)
+### [mail](1466@holbertonschool.com)

@@ -1,5 +1,5 @@
 # 0x07. C - Even more pointers, arrays and strings
-
+---
 ### 0. memset
 function that fills memory with a constant byte.
 ### 1. memcpy
@@ -18,3 +18,9 @@ function that prints the chessboard.
 function that prints the sum of the two diagonals of a square matrix of integers.
 ### 8. Double pointer, double fun
 function that sets the value of a pointer to a char.
+---
+## contact
+
+### [twitter](https://twitter.com/RICARDO1470)
+### [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/)
+### [mail](1466@holbertonschool.com)

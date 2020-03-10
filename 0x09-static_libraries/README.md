@@ -1,5 +1,5 @@
 # 0x09. C - Static libraries
-
+---
 ### 0. A library is not a luxury but one of the necessities of life
 Create the static library libholberton.a containing all the functions listed below:
 * int _putchar(char c);
@@ -36,3 +36,9 @@ Your posts should have examples and at least one picture, at the top. Publish yo
 When done, please add all urls below (blog post, LinkedIn post, etc.)
 
 Please, remember that these blogs must be written in English to further your technical ability in a variety of settings
+---
+## contact
+
+### [twitter](https://twitter.com/RICARDO1470)
+### [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/)
+### [mail](1466@holbertonschool.com)

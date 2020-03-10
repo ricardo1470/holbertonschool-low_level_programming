@@ -1,5 +1,5 @@
 # learning c
-
+---
 ## 0-isupper.c:  
 function that checks for uppercase character.
 ## 1-isdigit.c:
@@ -22,3 +22,9 @@ function that prints a square.
 program that prints the numbers from 1 to 100.
 ## 10-print_triangle.c: 
 function that prints a triangle.
+---
+## contact
+
+### [twitter](https://twitter.com/RICARDO1470)
+### [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/)
+### [mail](1466@holbertonschool.com)
