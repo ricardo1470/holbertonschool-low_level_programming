@@ -16,7 +16,7 @@
 ### 0x0D. C - Preprocessor
 ### 0x0E. C - Structures, typedef
 ---
-## contact
+## contact 💬
 
 ### [twitter](https://twitter.com/RICARDO1470)
 ### [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/)
