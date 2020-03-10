@@ -20,4 +20,4 @@ Write a function that frees dogs.
 ---
 ## contact
 
-## [twitter] (https://twitter.com/RICARDO1470)
+## [twitter](https://twitter.com/RICARDO1470)
