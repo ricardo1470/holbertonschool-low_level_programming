@@ -18,3 +18,6 @@ Write a function that creates a new dog.
 Write a function that frees dogs.
 
 ---
+## contact
+
+## [twitter] (https://twitter.com/RICARDO1470)
