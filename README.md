@@ -1,4 +1,4 @@
-# learning c
+# learning c [![twitter](https://twitter.com/RICARDO1470)
 ---
 ### 0x00. hello_world.
 ### 0x01. variables_if_else_while.
