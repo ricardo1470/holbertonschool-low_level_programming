@@ -8,6 +8,7 @@
 unsigned int _strlen(char *s)
 {
 	unsigned int len = 0;
+
 	while (*(s + len))
 		len++;
 	return (len);
@@ -22,6 +23,7 @@ char *_strcpy(char *s, int len)
 {
 	char *new_s;
 	int i = 0;
+
 	new_s = malloc(sizeof(char) * (len + 1));
 	if (!new_s)
 		return (NULL);
@@ -45,6 +47,7 @@ dog_t *new_dog(char *name, float age, char *owner)
 {
 	dog_t *d;
 	char *cpy_name, *cpy_owner;
+
 	d = malloc(sizeof(dog_t));
 	if (!d)
 		return (NULL);
