@@ -13,13 +13,13 @@ function that searches for an integer.
 * You can assume num1 and num2 are integers, so use the atoi function to convert them from the string input to int
 * > operator is one of the following:
 
-'''
+```
   * +: addition
   * -: subtraction
   * *: multiplication
   * /: division
   * %: modulo
-'''
+```
 
 * The program prints the result of the operation, followed by a new line
 * You can assume that the result of all operations can be stored in an int
