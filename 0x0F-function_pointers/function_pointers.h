@@ -1,12 +1,17 @@
-#ifndef FUNTION_POINTER_H
-#define FUNTION_POINTER_H
+#ifndef FUNCTION_POINTERS_H
+#define FUNCTION_POINTERS_H
 #include <stdio.h>
-
+#include <stdlib.h>
 /**
-  * _putchar - print a character
-  * @c: character.
-  * Return: c
-  */
+ * _putchar - writes the character c to stdout
+ * @c: The character to print
+ *
+ * Return: On success 1.
+ * On error, -1 is returned, and errno is set appropriately.
+ */
 int _putchar(char c);/*prototype _putchar*/
+
+void print_name(char *name, void (*f)(char *));
+/*prototype function that prints a name.*/
 
 #endif /* HOLBERTON_H */
