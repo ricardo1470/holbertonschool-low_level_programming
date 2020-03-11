@@ -1,4 +1,4 @@
-# 0x0F. C - Function pointers
+> # 0x0F. C - Function pointers
 ---
 ### [0. What's my name](./0-print_name.c)
 function that prints a name.
