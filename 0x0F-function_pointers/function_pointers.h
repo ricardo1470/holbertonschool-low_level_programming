@@ -14,4 +14,7 @@ int _putchar(char c);/*prototype _putchar*/
 void print_name(char *name, void (*f)(char *));
 /*prototype function that prints a name.*/
 
+void array_iterator(int *array, size_t size, void (*action)(int));
+/*prototype function that executes a function*/
+
 #endif /* HOLBERTON_H */
