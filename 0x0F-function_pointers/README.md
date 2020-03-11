@@ -52,7 +52,7 @@ This file should contain your main function only.
 * You are not allowed to use any kind of loop
 * You are allowed to use a maximum of 3 if statements
 ---
-## contact
+> ## contact
 
 ### [twitter](https://twitter.com/RICARDO1470)
 ### [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/)
