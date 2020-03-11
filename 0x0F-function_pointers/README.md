@@ -11,8 +11,8 @@ function that searches for an integer.
 * You are allowed to use the standard library
 * Usage: calc num1 operator num2
 * You can assume num1 and num2 are integers, so use the atoi function to convert them from the string input to int
-> operator is one of the following:
-  * '+': addition
+* > operator is one of the following:
+  * '''+''': addition
   * '-': subtraction
   * '*': multiplication
   * '/': division
