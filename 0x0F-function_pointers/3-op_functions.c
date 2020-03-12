@@ -1,11 +1,10 @@
 #include "3-calc.h"
 
 /**
-  * op_add - initializes a variable
-  *
-  * @a: int.
-  * @b: int.
-  * Return: nothing.
+  * op_add - add of two numbers.
+  * @a: first number.
+  * @b: second number.
+  * Return: add.
   */
 int op_add(int a, int b)
 {
@@ -13,11 +12,10 @@ int op_add(int a, int b)
 }
 
 /**
-  * op_sub - initializes a variable
-  *
-  * @a: int.
-  * @b: int.
-  * Return: nothing.
+  * op_sub - subtraction of two numbers.
+  * @a: first number.
+  * @b: second number.
+  * Return: subtraction.
   */
 int op_sub(int a, int b)
 {
@@ -25,11 +23,10 @@ int op_sub(int a, int b)
 }
 
 /**
-  * op_mul - initializes a variable
-  *
-  * @a: int.
-  * @b: int.
-  * Return: nothing.
+  * op_mul - multiplication of two numbers.
+  * @a: first number.
+  * @b: second number.
+  * Return: multiplication.
   */
 int op_mul(int a, int b)
 {
@@ -37,11 +34,10 @@ int op_mul(int a, int b)
 }
 
 /**
-  * op_div - initializes a variable
-  *
-  * @a: int.
-  * @b: int.
-  * Return: nothing.
+  * op_div - divide of two numbers.
+  * @a: first number.
+  * @b: second number.
+  * Return: divide.
   */
 int op_div(int a, int b)
 {
@@ -54,11 +50,10 @@ int op_div(int a, int b)
 }
 
 /**
-  * op_mod - initializes a variable
-  *
-  * @a: int.
-  * @b: int.
-  * Return: nothing.
+  * op_mod - module of two numbers.
+  * @a: first number.
+  * @b: second number.
+  * Return: module.
   */
 int op_mod(int a, int b)
 {
