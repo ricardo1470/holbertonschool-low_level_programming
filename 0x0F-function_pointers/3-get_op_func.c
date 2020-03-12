@@ -1,13 +1,14 @@
-#include "calc.h"
-
+#include "3-calc.h"
+#include <string.h>
 /**
- * get_op_func - check the code for Holberton School students.
- *@s: pointer
- * Return: Always 0.
- */
+  * get_op_func - selects the correct function to perform the operatio
+  * nasked by the user.
+  * @s: char.
+  * Return: NULL or fuction.
+  */
 int (*get_op_func(char *s))(int, int)
 {
-op_t ops[] = {
+	op_t ops[] = {
 		{"+", op_add},
 		{"-", op_sub},
 		{"*", op_mul},
@@ -17,13 +18,12 @@ op_t ops[] = {
 	};
 	int i;
 
-	while (ops[i].op != '\0')
+	i = 0;
+	while (i < 5)
 	{
-		if (ops[i].op == *s)
-		{
-			break;
-		}
+		if (strcmp(s, ops[i].op) == 0)
+			return (ops[i].f);
 		i++;
 	}
-	return (ops[i].f);
+	return (NULL);
 }

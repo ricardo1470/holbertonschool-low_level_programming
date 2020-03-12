@@ -18,6 +18,6 @@ void array_iterator(int *array, size_t size, void (*action)(int));
 /*prototype function that executes a function*/
 
 int int_index(int *array, int size, int (*cmp)(int));
-/**/
+/*prototype  function that searches for an integer.*/
 
 #endif /* HOLBERTON_H */
