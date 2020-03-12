@@ -10,24 +10,26 @@
   */
 int main(int argc, char *argv[])
 {
-	int (*c)(int, int);
-	int a, b, d;
+	int num1, num2, result;
+	int (*skrt)(int, int);
 
 	if (argc != 4)
 	{
 		printf("Error\n");
-		exit(99);
+		exit(98);
 	}
-	a = atoi(argv[1]);
-	b = atoi(argv[3]);
-	c = get_op_func(argv[2]);
 
-	if (c == NULL)
+	num1 = atoi(argv[1]),
+	num2 = atoi(argv[3]);
+
+	skrt = get_op_func(argv[2]);
+	if (skrt == NULL)
 	{
 		printf("Error\n");
-		exit(100);
+		exit(99);
 	}
-	d = c(a, b);
-	printf("%d\n", d);
+	result = skrt(num1, num2);
+	printf("%d\n", result);
+
 	return (0);
 }

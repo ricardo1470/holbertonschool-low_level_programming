@@ -2,11 +2,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
-  * get_op_func - selects the correct function to perform the operatio
-  * nasked by the user.
-  * @s: char.
-  * Return: NULL or fuction.
-  */
+ * get_op_func - Entry function
+ * @s: operator
+ * Return: function
+ */
+
 int (*get_op_func(char *s))(int, int)
 {
 	op_t ops[] = {
@@ -20,6 +20,7 @@ int (*get_op_func(char *s))(int, int)
 	int i;
 
 	i = 0;
+
 	while (i < 5)
 	{
 		if (*ops[i].op == *s && s[1] == 0)
@@ -30,4 +31,5 @@ int (*get_op_func(char *s))(int, int)
 	}
 	printf("Error\n");
 	exit(99);
+
 }
