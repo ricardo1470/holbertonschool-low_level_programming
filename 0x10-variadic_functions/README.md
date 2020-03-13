@@ -9,12 +9,12 @@ function that prints strings, followed by a new line.
 ### [3. To be is a to be the value of a variable](./3-print_all.c)
 function that prints anything.
 * where format is a list of types of arguments passed to the function
- * ```c```: ```char```
- * ```i```: ```integer```
- * ```f```: ```float```
- * ```s```: ```char``` * (if the string is NULL, print ```(nil)``` instead
- * any other char should be ignored
- * see example
+  * ```c```: ```char```
+  * ```i```: ```integer```
+  * ```f```: ```float```
+  * ```s```: ```char``` * (if the string is NULL, print ```(nil)``` instead
+  * any other char should be ignored
+  * see example
 * You are not allowed to use ```for```, ```goto```, ternary operator, ```else```, ```do``` ```...``` ```while```
 * You can use a maximum of
  * 2 ```while``` loops
