@@ -3,7 +3,7 @@
 #include <stdarg.h>
 
 /**
- * print_strings - Entry point
+ * print_all - Entry point
  * Desc: Entry
  *@format: value
  * Return: Always 0 (Success)
