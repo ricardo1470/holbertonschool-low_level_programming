@@ -18,10 +18,10 @@
 ### 0x0F. C - Function pointers
 ### 0x10. C - Variadic functions
 ### 0x11. C - printf
+### 0x12-singly_linked_lists
+### 0x13-more_singly_linked_lists
 
 ---
-## contact 💬
+> ## contact 💬
 
-### [twitter](https://twitter.com/RICARDO1470)
-### [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/)
-### [mail](1466@holbertonschool.com)
+### | [twitter](https://twitter.com/RICARDO1470) | [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/) | [mail](1466@holbertonschool.com) | [github](https://github.com/ricardo1470/README/blob/master/README.md) |
