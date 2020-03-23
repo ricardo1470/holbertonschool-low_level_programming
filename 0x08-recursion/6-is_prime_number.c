@@ -11,12 +11,11 @@ int is_prime_number(int n)
 		return (0);
 	return (_my_number(n, 2));
 }
-
 /**
  * _my_number - Entry point
- * @k: int value
- * @l: int value
- * Return: 1 if prime; 0 if not prime.
+ *@k: int value
+ *@l: int value
+ *Return: 1 if prime; 0 if not prime.
  */
 
 int _my_number(int k, int l)
