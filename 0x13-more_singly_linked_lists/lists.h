@@ -27,5 +27,7 @@ size_t listint_len(const listint_t *h);
 /*prototype function that returns the number of elements in a linked listint_t list.*/
 listint_t *add_nodeint(listint_t **head, const int n);
 /*prototype function that adds a new node at the beginning of a listint_t list.*/
+listint_t *add_nodeint_end(listint_t **head, const int n);
+/*prototype function that adds a new node at the end of a listint_t list.*/
 
 #endif /* LISTS_H */
