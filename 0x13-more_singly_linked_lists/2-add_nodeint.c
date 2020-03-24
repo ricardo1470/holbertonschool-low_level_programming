@@ -18,10 +18,16 @@ listint_t *add_nodeint(listint_t **head, const int n)
 	}
 	node->n  = n;
 	/* 2. put in the data  */
+	if (*head == NULL)
+	{
+		node->next = NULL;
+		/* 3. Make next of new node as head */
+		*head = node;
+		/* 4. move the head to point to the new node */
+		return (node);
+		/* 5. return head */
+	}
 	node->next = *head;
-	/* 3. Make next of new node as head */
 	*head = node;
-	/* 4. move the head to point to the new node */
 	return (node);
-	/* 5. return head */
 }
