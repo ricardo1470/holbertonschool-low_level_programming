@@ -7,13 +7,15 @@
  */
 size_t print_listint(const listint_t *h)
 {
-	unsigned long int node;
+	size_t node = 0;
+	listint_t *head;
 
-	node = 0;
-	while (h != NULL)
+	head = (listint_t *)h;
+
+	while (head != NULL)
 	{
-		printf(" %d\n", h->n);
-		h = h->next;
+		printf(" %d\n", head->n);
+		head = head->next;
 		node++;
 	}
 	return (node);
