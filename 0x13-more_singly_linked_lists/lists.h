@@ -23,5 +23,7 @@ int _putchar(char c);
 /*prototype _putchar*/
 size_t print_listint(const listint_t *h);
 /*prototype function that prints all the elements of a listint_t list.*/
+size_t listint_len(const listint_t *h);
+/*prototype function that returns the number of elements in a linked listint_t list.*/
 
 #endif /* LISTS_H */
