@@ -30,5 +30,7 @@ void free_listint(listint_t *head);
 /*prototype function that frees a listint_t list.*/
 void free_listint2(listint_t **head);
 /*prototype function that frees a listint_t list.*/
+int pop_listint(listint_t **head);
+/*function that deletes the head node of a listint_t linked list*/
 
 #endif /* LISTS_H */
