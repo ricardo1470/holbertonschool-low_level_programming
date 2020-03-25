@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * free_listint2 - Entry point.
+ * pop_listint - Entry point.
  * @head:pointer value.
  * Return: Always 0 (Success)
  */
