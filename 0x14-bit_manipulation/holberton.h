@@ -18,5 +18,7 @@ int get_bit(unsigned long int n, unsigned int index);
 /*function that returns the value of a bit at a given index.*/
 int set_bit(unsigned long int *n, unsigned int index);
 /* function that sets the value of a bit to 1 at a given index.*/
+int clear_bit(unsigned long int *n, unsigned int index);
+/*function that sets the value of a bit to 0 at a given index.*/
 
 #endif /* HOLBERTON_H */
