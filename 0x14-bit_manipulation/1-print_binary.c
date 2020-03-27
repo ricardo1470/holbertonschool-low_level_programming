@@ -1,8 +1,8 @@
 #include "holberton.h"
 
 /**
- * binary_to_uint - Entry point.
- * @b:pointer value.
+ * print_binary - Entry point.
+ * @n:pointer value.
  * Return: Always 0 (Success)
  */
 void print_binary(unsigned long int n)
