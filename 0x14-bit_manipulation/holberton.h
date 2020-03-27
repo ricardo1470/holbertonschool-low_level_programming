@@ -22,5 +22,7 @@ int clear_bit(unsigned long int *n, unsigned int index);
 /*function that sets the value of a bit to 0 at a given index.*/
 unsigned int flip_bits(unsigned long int n, unsigned long int m);
 /* function that returns the number of bits*/
+int get_endianness(void);
+/*function that checks the endianness.*/
 
 #endif /* HOLBERTON_H */
