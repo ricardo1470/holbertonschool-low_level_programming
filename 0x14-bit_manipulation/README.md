@@ -14,6 +14,7 @@ function that sets the value of a bit to 0 at a given index.
 function that returns the number of bits you would need to flip to get from one number to another.
 ### [6.Endianness](100-get_endianness.c)
 function that checks the endianness.
+
 ---
 > ## contact 💬
 
