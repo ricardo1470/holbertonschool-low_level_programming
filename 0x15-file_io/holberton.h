@@ -16,5 +16,6 @@ int create_file(const char *filename, char *text_content);
 /*function that creates a file.*/
 int append_text_to_file(const char *filename, char *text_content);
 /*function that appends text at the end of a file.*/
+int main(int argc, char *argv[]);
 
 #endif /* HOLBERTON_H */
