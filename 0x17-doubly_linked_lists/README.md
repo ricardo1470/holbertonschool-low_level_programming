@@ -24,4 +24,6 @@
 |---|---|---|---|
 |   |   |   |   |
 [![Twitter](https://img.shields.io/twitter/follow/:RICARDO1470.svg?style=social&label=@:RICARDO1470)](https://twitter.com/RICARDO1470)
+
+[![Twitter](https://img.shields.io/twitter/follow/:twitterHandle.svg?style=social&label=@:twitterHandle)](https://twitter.com/RICARDO1470)
 ---
