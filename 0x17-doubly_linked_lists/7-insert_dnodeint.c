@@ -1,8 +1,8 @@
 #include "lists.h"
 
 /**
- * insert_nodeint_at_index - Entry point.
- * @head:pointer value.
+ * insert_dnodeint_at_index - Entry point.
+ * @h:pointer value.
  * @idx: unsigned int value.
  * @n: int value
  * Return: Always 0 (Success)
