@@ -1,6 +1,6 @@
 #include "lists.h"
 /**
- * free_list - Entry point
+ * free_dlistint - Entry point
  * @head: pointer
  * Return: Always 0 (Success)
  */
