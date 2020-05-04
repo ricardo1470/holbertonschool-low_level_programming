@@ -24,6 +24,7 @@
 ### 0x15-file_io
 ### 0x16-simple_shell
 ### 0x17-doubly_linked_lists
+### 0x18-dynamic_libraries
 
 ---
 > ## contact 💬
