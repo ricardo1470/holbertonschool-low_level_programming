@@ -3,16 +3,29 @@
 /**
  * hash_table_create - Entry point
  * Desc: Entry
- * @size: value
- * Return: Always 0 (Success)
+ * @size: the size of the hashtable
+ * Return: a pointer to the newly allocated hashtable
  */
 hash_table_t *hash_table_create(unsigned long int size)
 {
 	hash_table_t *table;
 
-	table = malloc(sizeof(hash_table_t));
-	if (!table)
+	if (size < 1)
 	{
 		return (NULL);
 	}
+	table = malloc(sizeof(hash_table_t));
+	if (table == NULL)
+	{
+		free(table);
+		return (NULL);
+	}
+	table->array = malloc(sizeof(hash_node_t *) * size);
+	if (!(table->array))
+	{
+		free(table);
+		return (NULL);
+	}
+	table->size = size;
+	return (table);
 }
