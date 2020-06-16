@@ -1,0 +1,68 @@
+.Dd 17/03/20               \" DATE
+.Dt Untitled 1      \" Program name and manual section number
+.Sh NAME                 \" Section Header - required - don't modify
+.Nm Untitled,
+
+
+.TH _PRINTF
+
+.Sh NAME
+_Printf \ - print formated output
+
+.Sh SYNOPSIS
+
+.B _printf
+
+#include "holberton.h"
+#include <stdarg.h>
+
+int _printf(const char *format, ...);
+
+.Sh Description
+
+this function produces an output having in acount a some formats indicated
+by some characters.
+
+.SH Return value
+
+After gettin  succes in execution this functions return the number of character
+printed.
+
+.Sh Format
+
+It is used a character or idetifier to give acces to a specific type of format
+wich  are the way users are going to see their outputs
+
+example:
+
+_printf("%C",character);
+
+_printf("%d", decimal number);
+
+when a character is specified by putting a previous percent symbol it says the
+function to look for a subfunction to execute the conversion to that format
+
+.Sh The flag characters
+
+these are the main flags this function uses to print formated output:
+
+.It Fl c
+
+gives a character formated to the standard out.
+
+.It Fl s
+
+show a string of characters wichc are pointed by *s.
+
+.It Fl %
+
+if a percent symbol is placed next to the format especifier wich is
+an other percent symbol the out put will be the percent character.
+
+.It Fl d
+
+this flag provides the output of integer  decimal base 10
+
+.It Fl i
+
+as was said below this flag shows integer values also in base 10
