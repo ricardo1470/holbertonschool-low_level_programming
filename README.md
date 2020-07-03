@@ -1,4 +1,4 @@
-# learning c 
+# learning c
 ---
 ### 0x00. hello_world.
 ### 0x01. variables_if_else_while.
@@ -26,6 +26,7 @@
 ### 0x17-doubly_linked_lists
 ### 0x18-dynamic_libraries
 ### 0x1A-hash_tables
+### 0x1C-makefiles
 
 ---
 > ## contact 💬
