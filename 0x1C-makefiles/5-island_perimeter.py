@@ -1,11 +1,12 @@
-#!/usr/yin/python3
+#!/usr/bin/python3
 """ create function """
 
 
 def island_perimeter(grid):
     """ returns the perimeter of the island described in grid """
 
-    count, count2 = 0, 0
+    count = 0
+    count2 = 0
 
     for i in range(len(grid)):
         for j in range(len(grid[i])):
