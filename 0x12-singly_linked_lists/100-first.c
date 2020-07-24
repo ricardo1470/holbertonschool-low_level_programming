@@ -2,8 +2,6 @@
 
 /**
  * print_afert_main - before the main function is executed.
- * 
- * 
  **/
 void print_afert_main(void) __attribute__((constructor));
 
