@@ -1,7 +1,7 @@
 #include "search_algos.h"
 
 /**
- * linear_searche - Entry point
+ * linear_search - Entry point
  * Desc: Entry
  * @array: is a pointer to the first element of the array to search
  * @size:  is the number of elements in array
