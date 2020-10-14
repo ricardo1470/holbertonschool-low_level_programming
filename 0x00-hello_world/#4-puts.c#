@@ -1,9 +1,0 @@
-#include <stdio.h>
-main(void)
-{
-  char string[40];
-  strcpy(str, "This is a test string");
-  pu
-puts(\""Programming is like building a multilingual puzzle\n");
-return 0;
-}
